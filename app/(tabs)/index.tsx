@@ -46,6 +46,7 @@ export default function HomeScreen() {
 
         <Text style={styles.title}>Calculadora IMC</Text>
         <Text style={styles.subtitle}>Vamos cuidar da sua saúde 💙</Text>
+        <Text style={styles.subtitle}>by Nathalya s</Text>
 
         <TouchableOpacity style={styles.button} onPress={handlePress}>
           <Text style={styles.buttonText}>Começar</Text>
